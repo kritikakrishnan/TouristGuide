@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kritikagopalakrishnan/.android/build-cache/dd6442cdb208fac6c2e424c1c618b07dac48eb12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/kritikagopalakrishnan/Desktop/TouristGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4114407dff3a80e3afa751dd0473085a9ac27c40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kritikagopalakrishnan/Desktop/TouristGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7075a0865c89181eb545319b41f20f874877bd6b">
+        <dex dex="/Users/kritikagopalakrishnan/Desktop/TouristGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0054acd1c98792afd2eeba595ba30fdc3bf1ff31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kritikagopalakrishnan/.android/build-cache/7c417ae364346cfc39da7c7e6b5ae28140631f29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/kritikagopalakrishnan/Desktop/TouristGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bf140a5f9b896c11a65932e0d61202a22500e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kritikagopalakrishnan/.android/build-cache/97d6b8baa7d669b714eabc2e7e07ab863f1949e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e0e8918eb74e3ee9e82eef6430a4359b2b577d3">
+        <dex dex="/Users/kritikagopalakrishnan/Desktop/TouristGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4de5518918a6c85a0938f867b2c192ce9dc7b4e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kritikagopalakrishnan/Desktop/TouristGuide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/kritikagopalakrishnan/Desktop/TouristGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_24b8781fa7e2cb1ae4c0aa6d1cfc6c13ad105c81/classes.dex" />
+    </item>
+
+</items>
